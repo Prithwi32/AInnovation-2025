@@ -10,7 +10,7 @@ This project aims to revolutionize civic issue resolution by providing a unified
 
 Current methods of reporting and resolving civic issues are often inefficient, leading to:
 
-* **Fragmented Reporting:** 흩어진 Citizens use various channels (phone calls 📞, emails 📧, in-person visits 🚶‍♀️) to report problems, making it difficult to track and manage issues effectively.
+* **Fragmented Reporting:** Citizens use various channels (phone calls 📞, emails 📧, in-person visits 🚶‍♀️) to report problems, making it difficult to track and manage issues effectively.
 * **Slow Response Times:** 🐌 Bureaucratic processes and lack of coordination can cause significant delays in resolving reported issues.
 * **Communication Gaps:** 🗣️ Limited communication between citizens and authorities leaves citizens uninformed about the status of their reports and hinders collaborative problem-solving.
 * **Data Blindness:** 📊 Lack of centralized data and analytics prevents authorities from identifying trends, prioritizing resources, and making informed decisions.
